@@ -397,5 +397,5 @@ WILD = [
 YIFF = ["Hyiff", "Yiffbondage", "femyiff", "yiff", "yiffgif"]
 
 # Other APIs
-NEKOBOT_HENTAI = choice(["hentai_anal", "hentai"])
+NEKOBOT_HENTAI = ["hentai"]
 NEKOBOT_URL = "https://nekobot.xyz/api/image?type={}"
